@@ -1,0 +1,1 @@
+<?php include 'cover.php'; ?>
